@@ -4,7 +4,6 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Research Interests
 
 ##Long-term population dynamics under climate change and human impact
 <img src="/images/Chuan_chinese striped hamster.jpg" class="floatpic" width="200" height="200">
