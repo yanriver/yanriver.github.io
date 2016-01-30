@@ -6,7 +6,7 @@ title: Projects
 
 
 ###Long-term population dynamics under climate change and human impact
-<img src="/images/hamster.jpg" class="floatpic" width="200" height="200">
+<img src="/images/hamster.png" class="floatpic" width="200" height="200">
 Based on population time series collected from literature, online database and our on-going survey data (small mammals), we applied various statistical modeling methods to test effects of global and local climate, human activities and landscape change on animal populations, in an effort to predict population dynamics and guide agricultural activities, forest management, etc.
 
 ###Plant-animal interactions
