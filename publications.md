@@ -4,6 +4,10 @@ permalink: /publications/index.html
 title: Publications
 ---
 ## Publications
+  - Zhang, H., C. Yan, G. Chang, and Z. Zhang. 2016. Seed trait-mediated selection by rodents affects mutualistic interactions and seedling recruitment of co-occurring tree species. Oecologia, 180:475-484.
+  
+  - Zhang, Z., Z. Wang, G. Chang, X. Yi, J. Lu, Z. Xiao, H. Zhang, L. Cao, F. Wang, and H. Li. Trade-off between seed defensive traits and impacts on interaction patterns between seeds and rodents in forest ecosystems. Plant Ecology(online).
+
   - Zhang, Z., C. Yan, C. J. Krebs, and N. C. Stenseth. 2015. Ecological non-monotonicity and its effects on complexity and stability of populations, communities and ecosystems. Ecological Modelling, 312:374-384.
   
   - Yan C., Xu T., Cao X., Wang F., Wang S., Hao S., Yang H., Li H., Zhang Z. 2014. Temporal change in body mass of two sympatric hamster species and implications for population dynamics. Canadian Journal of Zoology 92(5), 389-395.
