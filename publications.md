@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 ## Publications
-Chuan Yan, Yan Xie, Xinhai Li, Marcel Holyoak, and Zhibin Zhang. 2016. Species co-occurrence and phylogenetic structure of terrestrial vertebrates at regional scales. Global Ecology and Biogeography(early view).
+ - Chuan Yan, Yan Xie, Xinhai Li, Marcel Holyoak, and Zhibin Zhang. 2016. Species co-occurrence and phylogenetic structure of terrestrial vertebrates at regional scales. Global Ecology and Biogeography(early view).
 Hongmao Zhang, Chuan Yan, Gang Chang, and Zhibin Zhang. 2016. Seed trait-mediated selection by rodents affects mutualistic interactions and seedling recruitment of co-occurring tree species. Oecologia 180:475-484.
 Zhibin Zhang, Zhenyu Wang, Gang Chang, Xianfeng Yi, Jiqi Lu, Zhishu Xiao, Hongmao Zhang, Lin Cao, Fusheng Wang, Hongjun Li, and Chuan Yan. 2016. Trade-off between seed defensive traits and impacts on interaction patterns between seeds and rodents in forest ecosystems. Plant Ecology:1-13.
 Zhibin Zhang, Chuan Yan, Charles J Krebs, and Nils Chr Stenseth. 2015. Ecological non-monotonicity and its effects on complexity and stability of populations, communities and ecosystems. Ecological Modelling 312:374-384.
