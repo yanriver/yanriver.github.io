@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 ## Publications
-  - Zhang, Z., C. Yan, C. J. Krebs, and N. C. Stenseth. 2015. Ecological non-monotonicity and its effects on complexity and stability of populations, communities and ecosystems. Ecological Modelling 312:374-384.
+  - Zhang, Z., C. Yan, C. J. Krebs, and N. C. Stenseth. 2015. Ecological non-monotonicity and its effects on complexity and stability of populations, communities and ecosystems. Ecological Modelling, 312:374-384.
   
   - Yan C., Xu T., Cao X., Wang F., Wang S., Hao S., Yang H., Li H., Zhang Z. 2014. Temporal change in body mass of two sympatric hamster species and implications for population dynamics. Canadian Journal of Zoology 92(5), 389-395.
   
