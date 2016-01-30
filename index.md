@@ -16,7 +16,7 @@ population dynamics and biodiversity.
 
 [IOZ]: http://www.ioz.ac.cn
 
-##news
+##News!
 I have been very lucky to get the chance to visit Prof.Bascompte's lab in University of Zurich since September,2015, sponsored by Chinese Academic Sciencies. It has been and will continue to be a wonderful experience. My visit will end in September, 2016.
 
 
