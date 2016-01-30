@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-Recently, I become
+Currently, I am visiting Prof.Bascompte's lab in University of Zurich, trying to analyze emprical rodent-seed network data and explore network properties related to spatial structure.
 
 ###Long-term population dynamics under climate change and human impact
 <img src="/images/hamster.png" class="floatpic" width="200" height="200">
