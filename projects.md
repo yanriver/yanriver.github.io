@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-<img src="/images/academic_cloud.png" align="left" width="200" height="200">
+<img src="/images/academic_cloud.png" align="up" width="200" height="200">
 <p>Currently, I am visiting Prof. Bascompte's lab in University of Zurich, trying to analyze empirical rodent-seed network data and explore network properties related to spatial structure.</p>
 
 
