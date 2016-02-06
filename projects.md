@@ -7,7 +7,7 @@ title: Projects
 <img src="/images/academic_cloud.png" style="float:left" width="200" height="200">
 <p>Currently, I am visiting Prof. Bascompte's lab in University of Zurich, trying to analyze empirical rodent-seed network data and explore network properties related to spatial structure.</p>
 </div>
-
+<div>
 <h3>Long-term population dynamics under climate change and human impact</h3>
 <img src="/images/hamster.png" style="float:right" width="200" height="200">
 <p>I am interested in how dynamics of animal populations responds to biotic and abiotic factors. Based on population time series collected from literature, online database and our on-going survey data (small mammals), we applied various statistical modeling methods to test effects of global and local climate, human activities and landscape change on animal populations, in an effort to predict population dynamics and guide agricultural activities, forest management, etc.</p>
@@ -19,4 +19,4 @@ title: Projects
 <h3>Macroecology</h3>
 <img src="/images/marcoecology_copy.png" class="floatpic" width="200" height="151">
 To infer the mechanisms driving species assembly in China mainland by using regional and global animal distribution and phylogenetic data. 
-
+</div>
