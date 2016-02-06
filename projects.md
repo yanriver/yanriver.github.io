@@ -3,8 +3,10 @@ layout: page
 permalink: /projects/index.html
 title: Projects
 ---
+<div>
 <img src="/images/academic_cloud.png" style="float:up" width="200" height="200">
 <p>Currently, I am visiting Prof. Bascompte's lab in University of Zurich, trying to analyze empirical rodent-seed network data and explore network properties related to spatial structure.</p>
+</div>
 
 <h3>Long-term population dynamics under climate change and human impact</h3>
 <img src="/images/hamster.png" class="clearfix" width="200" height="200">
