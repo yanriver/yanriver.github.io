@@ -11,7 +11,7 @@ Currently, I am visiting Prof. Bascompte's lab in University of Zurich, trying t
 
 <h3>Long-term population dynamics under climate change and human impact</h3>
 <p>
-<img src="/images/hamster.png" align="right" width="200" height="200">
+<img src="/images/hamster.png" align="left" width="200" height="200">
 I am interested in how dynamics of animal populations responds to biotic and abiotic factors. Based on population time series collected from literature, online database and our on-going survey data (small mammals), we applied various statistical modeling methods to test effects of global and local climate, human activities and landscape change on animal populations, in an effort to predict population dynamics and guide agricultural activities, forest management, etc.</p>
 
 <h3>Plant-animal interactions</h3>
