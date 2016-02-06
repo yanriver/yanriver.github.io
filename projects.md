@@ -4,8 +4,9 @@ permalink: /projects/index.html
 title: Projects
 ---
 <p>
-<img src="/images/academic_cloud.png" align="up" width="200" height="200">
-Currently, I am visiting Prof. Bascompte's lab in University of Zurich, trying to analyze empirical rodent-seed network data and explore network properties related to spatial structure.</p>
+<img src="/images/academic_cloud.png" align="right" width="200" height="200">
+Currently, I am visiting Prof. Bascompte's lab in University of Zurich, trying to analyze empirical rodent-seed network data and explore network properties related to spatial structure.
+</p>
 
 
 <h3>Long-term population dynamics under climate change and human impact</h3>
