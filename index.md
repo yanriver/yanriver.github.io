@@ -9,7 +9,7 @@ My name is Chuan Yan(严川).  I am an assistant professor at Institute of Zoolo
 I joined IOZ in 2010 as a PHD student supervised by [Prof. Zhibin Zhang], and got the assistant professorship in the group of Agricultural Animal Ecology, IOZ in 2013.
 Before 2010, I was in Lanzhou University for my master (supervised by Prof.Yingmei Zhang) and bachelor studies.
 
-Being a scientist is a dream from my childhood! I am fascinated by both the known and unknown scientific knowledge about the world we are living in, which keeps me going on the path of science. 
+Becoming a scientist is a dream from my childhood! I am fascinated by both the known and unknown scientific knowledge about the world we are living in, which keeps me going on the path of science. 
 At present, my research interests generally lie in population and community ecology. By integrating data from field survey, online database and many other resources, I apply statistical and simulation modeling method to understand
 population dynamics and biodiversity. 
 
