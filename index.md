@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+<h2> About Me </h2>
 
 <img src="/images/yan1.jpg" class="floatpic" width="200" height="200">
 My name is Chuan Yan(严川).  I am an assistant professor at Institute of Zoology ([IOZ]), Chinese Academy of Sciences (CAS).
@@ -19,6 +19,7 @@ population dynamics and biodiversity.
 [Bascompte lab]:http://www.bascompte.net
 
 <h2>News!</h2>
-I have been very lucky to get the chance to visit [Bascompte lab] in University of Zurich since September,2015, sponsored by Chinese Academic Sciences. It has been and will continue to be a wonderful experience. My visit will end in September, 2016.
+  - New manuscript accepted in Global Ecology and Biogeography, titled "Species co-occurrence and phylogenetic structure of terrestrial vertebrates at regional scales".
+  - I have been lucky to get a scholarship to visit [Bascompte lab] in University of Zurich since September,2015, sponsored by Chinese Academic Sciences. It has been and will continue to be a wonderful experience. My visit will end in September, 2016.
 
 
