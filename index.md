@@ -16,8 +16,9 @@ population dynamics and biodiversity.
 
 [IOZ]: http://www.ioz.ac.cn
 [Prof. Zhibin Zhang]:http://sourcedb.ioz.cas.cn/yw/people/200907/t20090716_2088458.html
+[Bascompte lab]:http://www.bascompte.net
 
 <h2>News!</h2>
 I have been very lucky to get the chance to visit [Bascompte lab] in University of Zurich since September,2015, sponsored by Chinese Academic Sciences. It has been and will continue to be a wonderful experience. My visit will end in September, 2016.
-[Bascompte lab]:http://www.bascompte.net
+
 
