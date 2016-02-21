@@ -6,7 +6,7 @@ layout: page
 
 <img src="/images/yan1.jpg" class="floatpic" width="200" height="200">
 My name is Chuan Yan(严川).  I am an assistant professor at Institute of Zoology ([IOZ]), Chinese Academy of Sciences (CAS).
-I joined IOZ in 2010 as a PHD student supervised by [Prof. Zhibin Zhang], and after graduation got the assistant professorship in Animal Ecology Group, IOZ in 2013.
+I joined IOZ in 2010 as a PHD student supervised by [Prof. Zhibin Zhang], and got the assistant professorship in the group of Agricultural Animal Ecology, IOZ in 2013.
 Before 2010, I was in Lanzhou University, for my master (supervised by Prof.Yingmei Zhang) and bachelor studies.
 
 Being a scientist is a dream from my childhood! I am fascinated by both the known and unknown scientific knowledge about the world we are living in, which keeps me going on the path of science. 
