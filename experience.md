@@ -3,7 +3,7 @@ layout: page
 permalink: /experience/index.html
 title: Experience
 ---
-
+[IOZ]: http://www.ioz.ac.cn
 
 <h3>Professional appointment</h3>
 
@@ -14,7 +14,7 @@ title: Experience
   - 2010 – 2013: Ph.D, Ecology, Institute of Zoology ([IOZ]), Chinese Academy of Sciences, Beijing, China. 
   - 2007 – 2010: M.Sc, Zoology, School of Life Sciences, Lanzhou University, Lanzhou, China. 
   - 2003 – 2007: B.Sc, Biology, School of Life Sciences, Lanzhou University, Lanzhou, China. 
-[IOZ]: http://www.ioz.ac.cn
+
 <h3>Awards and Scholarships</h3>
 
   - 2015: Young Visiting Scholar to University of Zurich, supported by Chinese Academy of Sciences.
