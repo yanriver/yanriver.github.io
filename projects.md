@@ -8,6 +8,13 @@ title: Projects
 Currently, I am visiting Prof. Bascompte's lab in University of Zurich, trying to analyze empirical rodent-seed network data and explore network properties related to spatial structure.
 </p>
 
+<<<<<<< HEAD
+# Research Interests
+<img src="/images/Chuan_chinese striped hamster.jpg" class="floatpic" width="200" height="200">
+- Long-term population dynamics under climate change and human impact. Based on population time series collected from literature, online database and our on-going survey data (small mammals), we applied various statistical modeling methods to test effects of global and local climate, human activities and landscape change on animal populations, in an effort to predict population dynamics and guide agricultural activities, forest management, etc.
+- Plant-animal interactions. Rodent-seed interaction in forests exhbits an important effect on the dispersal and regeneration of trees. It is usually small and bipartite network, but with mixed interactions between seed and rodent, including predation and mutualistic interaction at the same time. We are tring to integrate theoretical, statistical and experimental methods to explore its network structure and dynamics.
+- Macroecological studies by using regional and global animal distribution and phylogenetic data to infer the mechanisms driving the species assembly. 
+=======
 
 <h3>Long-term population dynamics under climate change and human impact</h3>
 <p>
@@ -23,4 +30,5 @@ I am interested in how dynamics of animal populations responds to biotic and abi
 <h3>Macroecology</h3>
 <img src="/images/marcoecology_copy.png" class="floatpic" width="200" height="151">
 To infer the mechanisms driving species assembly in China mainland by using regional and global animal distribution and phylogenetic data. 
+>>>>>>> e238a5b25baff0d44908b05be69b09c72e814f4f
 
