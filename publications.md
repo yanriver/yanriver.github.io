@@ -4,6 +4,8 @@ permalink: /publications/index.html
 title: Publications
 ---
 ## Publications
+  - **Chuan Yan** & Zhibin Zhang. 2016. Interspecific interaction strength influences population density more than carrying capacity in more complex ecological networks. Ecological Modelling 332, 1-7.
+
   - **Chuan Yan**, Yan Xie, Xinhai Li, Marcel Holyoak, and Zhibin Zhang. 2016. Species co-occurrence and phylogenetic structure of terrestrial vertebrates at regional scales. Global Ecology and Biogeography(early view).
   
   - Hongmao Zhang, **Chuan Yan**, Gang Chang, and Zhibin Zhang. 2016. Seed trait-mediated selection by rodents affects mutualistic interactions and seedling recruitment of co-occurring tree species. Oecologia 180:475-484.
@@ -27,5 +29,4 @@ title: Publications
   - Jia-Ni Chen, Nai-Fa Liu, **Chuan Yan**, and Bei An. 2011. Plasticity in nest site selection of Black Redstart (Phoenicurus ochruros): a response to human disturbance. Journal of Ornithology 152:603-608.
   
   - **Chuan Yan**, Dejun Huang, and Yingmei Zhang. 2011. The involvement of ROS overproduction and mitochondrial dysfunction in PBDE-47-induced apoptosis on Jurkat cells. Experimental and Toxicologic Pathology 63:413-417.
-
 
