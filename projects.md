@@ -8,7 +8,7 @@ title: Projects
 Currently, I am visiting Prof. Bascompte's lab in University of Zurich, trying to analyze empirical rodent-seed network data and explore network properties related to spatial structure.
 </p>
 
-<<<<<<< HEAD
+
 # Research Interests
 
 <h3>Long-term population dynamics under climate change and human impact</h3>
