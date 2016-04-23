@@ -9,8 +9,6 @@ Currently, I am visiting Prof. Bascompte's lab in University of Zurich, trying t
 </p>
 
 
-# Research Interests
-
 <h3>Long-term population dynamics under climate change and human impact</h3>
 <p>
 <img src="/images/hamster.png" align="left" width="200" height="200">
