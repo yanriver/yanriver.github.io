@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# to be completed
+<h2>to be completed</h2>
 
 
 
