@@ -4,6 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 ## Publications
+  - Yan, C. & Zhang, Z. 2016. Interspecific interaction strength influences population density more than carrying capacity in more complex ecological networks. Ecological Modelling 332, 1-7.
   - Yan C., Xu T., Cao X., Wang F., Wang S., Hao S., Yang H., Li H., Zhang Z. 2014. Temporal change in body mass of two sympatric hamster species and implications for population dynamics. Canadian Journal of Zoology 92(5), 389-395.
   - Yan C., Zhang Z. 2014. Specific non-monotonous interactions increase persistence of ecological networks. Proceedings of the Royal Society B: Biological Sciences 281(1779), 20132797.
 
