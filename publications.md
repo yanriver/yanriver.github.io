@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 ## Publications
-  - **Chuan Yan** & Zhibin Zhang. 2016. Interspecific interaction strength influences population density more than carrying capacity in more complex ecological networks. Ecological Modelling 332, 1-7 (2016).
+  - **Chuan Yan** & Zhibin Zhang. 2016. Interspecific interaction strength influences population density more than carrying capacity in more complex ecological networks. Ecological Modelling 332, 1-7.
 
   - **Chuan Yan**, Yan Xie, Xinhai Li, Marcel Holyoak, and Zhibin Zhang. 2016. Species co-occurrence and phylogenetic structure of terrestrial vertebrates at regional scales. Global Ecology and Biogeography(early view).
   
