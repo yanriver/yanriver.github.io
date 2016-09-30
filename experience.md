@@ -8,7 +8,7 @@ title: Experience
 <h3>Professional appointment</h3>
 
   - 2013 – Present: Assistant professor, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.
-
+  - 2015.9 – 2016.9: Visiting Scholar in University of Zurich, Switzerland.
 <h3>Education</h3>
 
   - 2010 – 2013: Ph.D, Ecology, Institute of Zoology ([IOZ]), Chinese Academy of Sciences, Beijing, China. 
