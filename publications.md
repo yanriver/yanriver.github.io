@@ -4,6 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 ## Publications
+  - Cao, L., Z. Wang, **C. Yan**, J. Chen, C. Guo, and Z. Zhang. 2016. Differential foraging preferences on seed size by rodents result in higher dispersal success of medium‐sized seeds. Ecology 97:3070-3078.
   - **Chuan Yan** & Zhibin Zhang. 2016. Interspecific interaction strength influences population density more than carrying capacity in more complex ecological networks. Ecological Modelling 332, 1-7.
 
   - **Chuan Yan**, Yan Xie, Xinhai Li, Marcel Holyoak, and Zhibin Zhang. 2016. Species co-occurrence and phylogenetic structure of terrestrial vertebrates at regional scales. Global Ecology and Biogeography(early view).
