@@ -19,11 +19,8 @@ population dynamics and biodiversity.
 [Bascompte lab]:http://www.bascompte.net
 
 <h2>News!</h2>
-
-  - Got promoted to associate professorship. (5/1/2017)
-  
-  - New manuscript accepted in Global Ecology and Biogeography, titled "Species co-occurrence and phylogenetic structure of terrestrial vertebrates at regional scales". (21/2/2016)
-  
+  - Got promoted to associate professorship. (5/1/2017) 
+  - New manuscript accepted in Global Ecology and Biogeography, titled "Species co-occurrence and phylogenetic structure of terrestrial vertebrates at regional scales". (21/2/2016)  
   - I have been lucky to get a scholarship to visit [Bascompte lab] in University of Zurich since September,2015, sponsored by Chinese Academic Sciences. It has been and will continue to be a wonderful experience. My visit will end in September, 2016.( 18/1/2016)
 
 
